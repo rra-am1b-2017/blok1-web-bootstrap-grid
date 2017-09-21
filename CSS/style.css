@@ -1,0 +1,20 @@
+h1 {
+   border: 0px solid black;
+   color: white;
+   text-align: center;
+}
+
+header {
+   background: url(../images/huisjes.jpg) no-repeat center center;
+   background-size: cover;
+   height: 40vh;
+}
+
+img {
+   width: 100px;
+   height: 100px;
+}
+
+.container {
+   border: 2px solid #5AADFA;
+}
